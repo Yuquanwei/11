@@ -1,0 +1,43 @@
+# STOCKHOLM 1.0
+#=GF ID R1-i1
+#=GF AU jackhmmer (HMMER 3.3.2)
+
+#=GS MGYP000214933280/58-206 DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+#=GS MGYP000008518664/38-194 DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP001129081157/38-76  DE [subseq from] PL=00 UP=0 BIOMES=0000000011000
+#=GS MGYP000446944848/62-222 DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP000197237352/62-174 DE [subseq from] PL=01 UP=0 BIOMES=0110000000000
+#=GS MGYP000250319516/60-174 DE [subseq from] PL=11 UP=0 BIOMES=0110000000000
+
+R1                              MERQEESLSARPALETEGLRFLHTTVGSLLATYGWYIVFSCILLYVVFQKLS--ARLRA---------LRQR--QLDRAAA-AVE--PDVVVKRQEALAAARLKMQEELNAQVEKHKEKLKQLEEEKRRQKIEMWDSMQEGKSYKGNAKKPQEEDSPGPSTSS-VLKRKSDRKPLRGGGYNPLSGEGGGACS-WRPGRRG
+MGYP000214933280/58-206         ---------------------------QFLQSYGWFVVLGIAVLFYVKSKLN--PSIEN---------WRKK--REQQQIY-EFD--ADVTRKRQSQMEAARQRMQQKLDEQAAEFAEKQKQKEEEKRQAKIDDWERHKEGKGYRSKVK---VQDEPSTSKSG-PKP---KKNVYKDNDYSPLSGGGGGANF-CRPRRGN
+#=GR MGYP000214933280/58-206 PP ...........................47899********************..*****.........****..99999**.***..*********************************************************98765...45666666665.444...44567889************99.9*97765
+MGYP000008518664/38-194         ----------------------------LILAFLFYKLYNRLKPYIT-EPIS--YHWSA---------LMEKRNQAEEAARYKKN--PDEFRRKVESLENARLRLQEKYERDAQEALEKRQEAEERRREQEIREWEDHLAGKGYKNRANKDCDKDREALKQQA-IVKGKKGFKP----EYNPLMGSGGGGGG-YRPAPRS
+#=GR MGYP000008518664/38-194 PP ............................5556667777777776654.6777..77777.........76541255555541568..****************************************************************************.******9999....5*************.***9988
+MGYP001129081157/38-76          ----------------------------------------------------------------------------------ILE--PDVVVKRQEALAAARLKMQEELNAQVEKHKEKLKQV-----------------------------------------------------------------------------
+#=GR MGYP001129081157/38-76  PP ..................................................................................58*..**********************************95.............................................................................
+MGYP000446944848/62-222         ---------------------------------PWALLILAFLLYKIYGKIK--ERFLMPIYYRYEDWCEQR--KIDEEAA-LMKKNPDEYREKMEAMERARLKLQEHYQRSTEAWAEKQIALEEKKRQQDIEDWEGHLKGEGYKSRYKTGEDKAREALEQQA-RVKGKKGFKP----EYNPLMGMGGGGSG-FRPSRRT
+#=GR MGYP000446944848/62-222 PP .................................5888888888888888888..775321121112225799..***9999.874349***********************************************************9998888888888888.8888888887....6*************.*****97
+MGYP000197237352/62-174         --------------------------AMLILAFLMYKVYGAIKRAYIYPLLDRIADWRE---------TKKW--EAEAAQI-KKN--PDQYRSKMEQLEQARLRLQQNYEKSTQEWKQKQSELEEKRRQQEIEDWENHLQGKGYKNRAYGKED-----------------------------------------------
+#=GR MGYP000197237352/62-174 PP ..........................556666777888888766555554431144566.........6666..6666777.778..**********************************************************99865444...............................................
+MGYP000250319516/60-174         -----------------------------------------------------------------------------MAKI-KAN--PEEYQGKMEDMDRARLRLQERYNVDAEDAAKKRDEKEKKKREQDIQDWENHKDGKGYKNRAEGKVDKEREALEQQARVKGKKGYTRP--DTGYSPLMGDFGGSGSRYRPT---
+#=GR MGYP000250319516/60-174 PP .............................................................................4555.667..8888899999**************************************************987766666665555405556666677..568******987765427775...
+#=GC PP_cons                    ..........................54667787888888888877787777..77766.........7787..8887777.778..9**********************************9**********************998887767888877777.777888777778687*******999998.9998987
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxx.........xxxx..xxxxxxx.xxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxx
+
+R1                              PSSGGUG
+MGYP000214933280/58-206         -------
+#=GR MGYP000214933280/58-206 PP .......
+MGYP000008518664/38-194         GQRGG--
+#=GR MGYP000008518664/38-194 PP 77776..
+MGYP001129081157/38-76          -------
+#=GR MGYP001129081157/38-76  PP .......
+MGYP000446944848/62-222         GGGGG--
+#=GR MGYP000446944848/62-222 PP 66655..
+MGYP000197237352/62-174         -------
+#=GR MGYP000197237352/62-174 PP .......
+MGYP000250319516/60-174         -------
+#=GR MGYP000250319516/60-174 PP .......
+#=GC PP_cons                    66666..
+#=GC RF                         xxxxxxx
+//
